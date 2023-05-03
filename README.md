@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Aditya-13 (Web Developer)
+- 👋 Hi, I’m a Software Engineer.
 - 👀 I’m interested in Learning New Tech!
-- 🌱 I’m currently learning Backend Web Development!
+- 🌱 I’m currently learning Python!
 - 💞️ I’m looking to collaborate on some exciting projects!
 - 📫 How to reach me insta-- aditya.91_ twitter-- Aditya__91
 
